@@ -7,7 +7,7 @@ The system can be controlled both **remotely via Tuya Cloud** and **manually thr
 
 ---
 
-## 🔗 Live Simulation
+## 🔗 Simulation for pinout and circuit visualization
 
 [👉 View Project on Wokwi](https://wokwi.com/projects/444187946000695297)
 
@@ -55,7 +55,6 @@ The system can be controlled both **remotely via Tuya Cloud** and **manually thr
 esp32-tuya-iot-system/
 ├── src/
 │   └── main.ino
-├── wokwi_diagram.json
 ├── README.md
 └── assets/
     └── circuit_diagram.png
@@ -98,14 +97,16 @@ It does **not** simulate Tuya cloud behavior but helps visualize component conne
 
 ## 👤 Authors
 
-**Muhammad Jahan Zaib**  
-🎓 Embedded Systems & IoT Enthusiast  
-📍 Islamabad, Pakistan  
-📎 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-jahan-zaib-b17a99273/)  
+
 
 **Hasan Bilal**  
 🔧 Embedded Systems Developer  
 📍 Islamabad, Pakistan  
+
+**Muhammad Jahan Zaib**  
+🎓 Embedded Systems & IoT Enthusiast  
+📍 Islamabad, Pakistan  
+📎 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-jahan-zaib-b17a99273/)  
 
 ⭐ If you found this project helpful, consider giving it a **star** on GitHub!
 
